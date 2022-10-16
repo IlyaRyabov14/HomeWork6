@@ -1,0 +1,15 @@
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\obj\Debug\net7.0\№38.csproj.AssemblyReference.cache
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\obj\Debug\net7.0\№38.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\obj\Debug\net7.0\№38.AssemblyInfoInputs.cache
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\obj\Debug\net7.0\№38.AssemblyInfo.cs
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\obj\Debug\net7.0\№38.csproj.CoreCompileInputs.cache
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\bin\Debug\net7.0\№38.exe
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\bin\Debug\net7.0\№38.deps.json
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\bin\Debug\net7.0\№38.runtimeconfig.json
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\bin\Debug\net7.0\№38.dll
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\bin\Debug\net7.0\№38.pdb
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\obj\Debug\net7.0\№38.dll
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\obj\Debug\net7.0\refint\№38.dll
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\obj\Debug\net7.0\№38.pdb
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\obj\Debug\net7.0\№38.genruntimeconfig.cache
+C:\Users\ilya-\OneDrive\Рабочий стол\HomeWork5\№38\obj\Debug\net7.0\ref\№38.dll
